@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: flee的blog
-subtitle: ''
-description: ''
+title: flee的赛博避难所
+subtitle: '随想 / 生活  / 技术 / 兴趣'
+description: '外E内I人的赛博避难所,探索个人成长和学习知识的旅途'
 keywords:
 author: flee
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
